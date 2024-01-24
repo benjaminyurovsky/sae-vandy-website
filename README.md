@@ -1,2 +1,2 @@
-# saevandy.github.io
+# SAE Vandy Website
 Website for SAE Vanderbilt
