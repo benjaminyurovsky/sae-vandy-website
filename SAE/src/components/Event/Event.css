@@ -1,0 +1,62 @@
+.event {
+    background: #fff;
+    padding: 30px 0;
+    margin: 30px auto;
+    font-family: 'Tungsten';
+  }
+  
+  .event.alt {
+    background: #6A498E;
+    color: #fff;
+  }
+  
+  .eventDate {
+    text-align: center;
+    border-right: #6A498E 5px solid;
+  }
+  
+  .event.alt .eventDate {
+    border-right: #fff 5px solid;
+  }
+  
+  .eventDate h1 {
+    font-weight: bold;
+    font-size: 3.5em;
+  }
+  
+  .eventDate h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .eventDate h5 {
+    margin-top: 15px;
+    text-transform: uppercase;
+  }
+  
+  .eventDetails {
+    padding: 50px;
+  }
+  
+  @media (max-width: 768px) {
+    .eventDetails {
+      text-align: center;
+    }
+  
+    .eventDate {
+      border-right: 0;
+    }
+  }
+  
+  .eventDetails h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .eventDetails h4 {
+    font-weight: bold;
+  }
+  
+  .eventDetails i {
+    padding-right: 10px;
+  }

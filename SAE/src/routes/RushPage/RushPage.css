@@ -1,0 +1,26 @@
+.video {
+    display: block;
+    margin: auto;
+    width: 560px;
+}
+
+.secondaryText {
+    text-align: center;
+    padding-bottom: 25px;
+    width: 75%;
+    margin: auto;
+}
+
+.link {
+    color: #6a498e;
+}
+
+.insta-embed{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+h5{
+    text-align: center;
+}

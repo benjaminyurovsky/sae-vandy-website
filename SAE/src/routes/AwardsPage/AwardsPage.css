@@ -1,0 +1,9 @@
+.awards {
+    margin: 5px;
+    text-align: center;
+   vertical-align: top;
+  }
+  
+  .award{
+    min-height: 200px;
+  }

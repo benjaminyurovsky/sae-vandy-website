@@ -1,0 +1,26 @@
+.award {
+    background: #fff;
+    padding: 30px 10px;
+    font-family: 'Tungsten';
+  }
+  
+  .award.alt {
+    background: #6A498E;
+    color: #fff;
+  }
+  
+  .award h1, h2 {
+    text-transform: uppercase;
+  }
+  
+  .award h1 {
+    font-weight: bold;
+  }
+  
+  .awardCol {
+    padding: 10px;
+  }
+  
+  .letters {
+    width: 100%;
+  }

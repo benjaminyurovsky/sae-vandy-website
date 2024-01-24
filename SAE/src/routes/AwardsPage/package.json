@@ -1,0 +1,6 @@
+{
+    "name": "AwardsPage",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AwardsPage.js"
+ }

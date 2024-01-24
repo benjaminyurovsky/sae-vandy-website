@@ -1,0 +1,64 @@
+.bg-img {
+    position: absolute;
+  top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+  z-index: -1;
+
+    background: linear-gradient(
+                     rgba(10,10,10, .5),
+                     rgba(10,10,10, .5)),
+                     url(HousePic.png) no-repeat center center fixed;
+
+    background-size: cover;
+    filter: blur(10px);
+}
+
+.navbar.fixed-bottom {
+border-bottom: 0;
+/*  border-top: #c90e3a 5px solid;*/
+}
+
+.titlePage {
+margin-top: 15vh;
+text-align: center;
+color: white;
+font-family: 'Tungsten';
+text-transform: uppercase;
+letter-spacing: 0.05em;
+}
+
+.titlePage img {
+max-height: 150px;
+margin-bottom: 20px;
+}
+
+.titlePage h1 {
+font-size: 3.5rem;
+font-weight: bold;
+}
+
+.titlePage h4 {
+color: #6a498e;
+font-weight: bold;
+margin-top: 20px;
+-webkit-text-stroke: 1px white;
+}
+
+@media (max-width: 568px) {
+.titlePage {
+  margin-top: 5vh;
+  padding: 10px;
+}
+
+.titlePage img {
+  max-height: 100px;
+  margin-bottom: 10px;
+}
+
+.titlePage h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+}

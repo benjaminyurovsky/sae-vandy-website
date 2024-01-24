@@ -1,0 +1,26 @@
+.brother {
+    margin-bottom: 40px;
+  }
+  
+  .brother h5 {
+    text-transform: uppercase;
+    color: #6A498E;
+    font-weight: bold;
+  }
+  
+  .brother .crop {
+      height: 250px;
+      width: 200px;
+      overflow: hidden;
+      margin: 0 auto;
+      border-radius: 50%;
+      margin-bottom: 10px;
+  }
+  
+  .brother .crop img {
+      height: 100%;
+  }
+  
+  .blank img {
+      margin-left: -20px;
+  }

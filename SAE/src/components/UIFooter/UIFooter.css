@@ -1,0 +1,60 @@
+.footer {
+    background-color: #ababab;
+    text-align: center;
+    padding: 50px 0 0;
+    margin-top: 50px;
+    font-family: 'Tungsten'
+  }
+  
+  .social span {
+    color: #6A498E;
+  }
+  
+  .social span:hover {
+    color: #fff;
+  }
+  
+  .social {
+    margin-bottom: 50px;
+    width: 80%;
+  }
+  
+  .contact {
+    background-color: #d5d5d5;
+    padding: 20px;
+  }
+  
+  .contact span {
+    margin-bottom: 5px;
+  }
+  
+  .contact a {
+    color: #6A498E;
+  }
+  
+  .contact a:hover {
+    color: #5a3681;
+    text-decoration: none;
+  }
+  
+  .footerFoot {
+    color: #fff;
+    background-color: #6A498E;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footerFoot a {
+    color: #fff;
+  }
+  
+  .footerFoot a:hover {
+    color: #ebebeb;
+    text-decoration: none;
+  }
+  
+  .footer img {
+    height: 100px;
+    margin: 20px 0;
+  }
+  
